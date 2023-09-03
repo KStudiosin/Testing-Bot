@@ -21,4 +21,4 @@ client.on('message', (message) => {
 });
 
 // Replace 'YOUR_BOT_TOKEN' with your actual bot token
-client.login('YOUR_BOT_TOKEN');
+client.login('MTA5MDMwMjI5ODgzNzc2NjE0Ng.GI1sZA.VSVlQuTKF0-jHIkW1f5DBp4BUnHgDTtKhFUpao');
